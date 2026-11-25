@@ -16,6 +16,16 @@ The chosen excuse is a burst kitchen pipe. It is mundane and specific
 ("ankle-deep"), it genuinely takes a day to deal with so a manager can
 hardly argue, the vivid detail carries the humour, and it reads exactly
 like a 7am text fired off while standing in water.
+
+The joke is the detail, not a punchline: "ankle-deep" turns a boring
+plumbing failure into a picture the manager can see, and a flooded flat
+is one of the few domestic disasters that plausibly eats a whole workday
+— no negotiation, no half-day compromise. The excuse deliberately never
+mentions GTA 6: the launch-week occasion is the framing the competition
+supplies, not something a real text would advertise, and naming the game
+would be the tell that gives the game away to a manager who has heard
+every excuse twice. The line wins by being the most believable boring
+emergency on the day the gamer most wants to be anywhere but the office.
 """
 
 import os
